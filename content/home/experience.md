@@ -33,11 +33,10 @@ experience:
   - title: Member of Editorial Board
     company: Takane Magazine
     company_url: ''
-    company_logo: takane_logo
     location: Tehran, Iran
     date_start: '2018'
     date_end: '2022'
-    
+
   - title: Official Member
     company: Language Institute and Cultural Center, IUST
     company_url: ''
