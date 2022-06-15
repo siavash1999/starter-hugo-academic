@@ -1,50 +1,30 @@
 ---
 role: Graduate of Mechanical Engineering
 avatar_filename: img_20220615_012910_540.jpg
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
-interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+bio: My research interests include mobile robots, SLAM and navigation, path
+  planning and control theory.
+interests: []
 social:
   - icon: envelope
     icon_pack: fas
     link: /#contact
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-  - icon: graduation-cap
-    icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/siavash1999
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
-organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+    link: https://www.linkedin.com/siavash_emami
+organizations: []
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: BSc in Mechanical Engineering
+      institution: Iran University of Science and Technology
+      year: 2022
 superuser: true
 highlight_name: true
 title: Siavash Emami
-email: ""
+email: siaemam@gmail.com
 ---
+I’m an engineering graduate, having passion for solving problems methodically and learning how the world around us obeys laws of calculus and physics, and how we interpret them with science. My goal in life is to reach the cutting-edge of science and contribute to pushing the boundaries of it as much as I can. Through my bachelor studies control theory, robotics and dynamic systems engineering gained my interest. I also have hands on experience in electronics and designing mechatronic systems. I like taking on the challenge to do things I am unfamiliar with and learn through process, and done many side projects which taught me valuable lessons and experience. I am keen to pursue my education and research in any relevant field to robotics or dynamic systems.
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
-
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}Curriculum vitae{{< /staticref >}}.
