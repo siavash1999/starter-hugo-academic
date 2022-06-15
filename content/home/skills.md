@@ -17,17 +17,17 @@ subtitle:
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
   - description: 
+    icon: matlab_icon
+    icon_pack: custom
+    name: Matlab
+  - description: 
     icon: python
     icon_pack: fab
     name: Python
   - description: 
-    icon: square-terminal
-    icon_pack: fas
-    name: Matlab
-  - description: 10%
-    icon: camera-retro
-    icon_pack: fas
-    name: Photography
+    icon: cpp_icon
+    icon_pack: custom
+    name: C++
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
 #  icon_pack: "emoji"
