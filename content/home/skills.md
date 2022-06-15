@@ -28,6 +28,18 @@ feature:
     icon: cpp_icon
     icon_pack: custom
     name: C++
+  - description: 
+    icon: git_icon
+    icon_pack: custom
+    name: Git
+  - description: 
+    icon: 
+    icon_pack: ros_icon
+    name: ROS
+  - description: 
+    icon: arduino_icon
+    icon_pack: custom
+    name: Arduino
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
 #  icon_pack: "emoji"
