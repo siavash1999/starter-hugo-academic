@@ -30,40 +30,6 @@ experience:
     date_start: '2018'
     date_end: '2022'
 
-  - title: Member of Editorial Board
-    company: Takane Magazine
-    company_url: ''
-    location: Tehran, Iran
-    date_start: '2018'
-    date_end: '2022'
-
-  - title: Official Member
-    company: Language Institute and Cultural Center, IUST
-    company_url: ''
-    company_logo: licc_logo
-    location: Tehran, Iran
-    date_start: '2018'
-    date_end: '2020'
-
-  - title: Teaching Assistant
-    company: Mechanical Engineering Department, IUST
-    company_url: ''
-    company_logo: iust_logo
-    location: Tehran, Iran
-    date_start: '2020-09'
-    date_end: '2020-12'
-    description: Dynamic Course
-
-
-  - title: Teaching Assistant
-    company: Mechanical Engineering Department, IUST
-    company_url: ''
-    company_logo: iust_logo
-    location: Tehran, Iran
-    date_start: '2020-01'
-    date_end: '2020-03'
-    description: Vibration Course
-
 design:
   columns: '2'
 ---
