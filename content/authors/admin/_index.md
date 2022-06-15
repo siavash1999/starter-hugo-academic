@@ -3,7 +3,12 @@ role: Graduate of Mechanical Engineering
 avatar_filename: img_20220615_012910_540.jpg
 bio: My research interests include mobile robots, SLAM and navigation, path
   planning and control theory.
-interests: []
+interests:
+  - Mobile Robots
+  - SLAM
+  - Navigation
+  - Localization
+  - Computer Vision
 social:
   - icon: envelope
     icon_pack: fas
