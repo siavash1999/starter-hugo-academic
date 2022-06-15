@@ -27,8 +27,8 @@ experience:
     company_url: ''
     company_logo: ssme_logo
     location: Tehran, Iran
-    date_start: '2018'
-    date_end: '2022'
+    date_start: '2018-01-01'
+    date_end: '2022-01-01'
 
 design:
   columns: '2'
