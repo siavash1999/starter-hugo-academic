@@ -1,6 +1,7 @@
 ---
 widget: experience
 active: true
+wieght: 40
 date_format: Jan 2006
 experience:
   - title: Voluntary Member
@@ -27,8 +28,8 @@ experience:
     company: Mechanical Engineering Department, IUST
     company_logo: iust_logo
     location: Tehran, Iran
-    date_start: '2020-09'
-    date_end: '2020-12'
+    date_start: '2020-09-01'
+    date_end: '2020-12-01'
     description: Dynamic Course
 
 
@@ -36,8 +37,8 @@ experience:
     company: Mechanical Engineering Department, IUST
     company_logo: iust_logo
     location: Tehran, Iran
-    date_start: '2020-01'
-    date_end: '2020-03'
+    date_start: '2020-01-01'
+    date_end: '2020-03-01'
     description: Vibration Course
 design:
   columns: "2"
