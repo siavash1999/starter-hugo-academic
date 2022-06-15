@@ -21,8 +21,8 @@ feature:
     icon_pack: custom
     name: Matlab
   - description: 
-    icon: python
-    icon_pack: fab
+    icon: python_icon
+    icon_pack: custom
     name: Python
   - description: 
     icon: cpp_icon
@@ -33,13 +33,26 @@ feature:
     icon_pack: custom
     name: Git
   - description: 
-    icon: 
-    icon_pack: ros_icon
+    icon: ros_icon
+    icon_pack: custom
     name: ROS
   - description: 
     icon: arduino_icon
     icon_pack: custom
     name: Arduino
+  - description: 
+    icon: solidworks_icon
+    icon_pack: custom
+    name: Solidworks
+  - description: 
+    icon: abaqus_icon
+    icon_pack: custom
+    name: Abaqus
+  - description: 
+    icon: latex_icon
+    icon_pack: custom
+    name: LaTeX
+
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
 #  icon_pack: "emoji"
