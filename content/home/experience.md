@@ -1,6 +1,7 @@
 ---
 widget: experience
 active: true
+headless: true
 wieght: 40
 date_format: Jan 2006
 experience:
@@ -9,13 +10,11 @@ experience:
     company_logo: ssme_logo
     location: Tehran, Iran
     date_start: '2018-01-01'
-    date_end: '2022-12-01'
 
   - title: Member of Editorial Board
     company: Takane Magazine
     location: Tehran, Iran
     date_start: '2018-01-01'
-    date_end: '2022-12-01'
 
   - title: Official Member
     company: Language Institute and Cultural Center, IUST
@@ -40,6 +39,7 @@ experience:
     date_start: '2020-01-01'
     date_end: '2020-03-01'
     description: Vibration Course
+
 design:
   columns: "2"
 ---
