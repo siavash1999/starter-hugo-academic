@@ -2,7 +2,8 @@
 widget: experience
 active: true
 headless: true
-wieght: 40
+weight: 40
+title: Experience
 date_format: Jan 2006
 experience:
   - title: Voluntary Member
