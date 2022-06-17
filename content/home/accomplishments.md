@@ -37,8 +37,7 @@ item:
     description: ''
     organization: Quera College
     organization_url: https://www.quera.org/
-    title: Task-Oriented Course in Fundamentals of Python Programming and Algorithmic
-Thinking
+    title: Task-Oriented Course in Fundamentals of Python Programming and Algorithmic Thinking
     url: ''
   - certificate_url: ''
     date_end: ''
