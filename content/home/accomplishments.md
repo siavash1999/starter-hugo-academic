@@ -25,7 +25,7 @@ date_format: Jan 2006
 item:
   - certificate_url: "uploads/quera_advanced_python.jpg"
     date_end: ''
-    date_start: '2020-04'
+    date_start: '2020-04-01'
     description: ''
     organization: Quera College
     organization_url: https://www.quera.org
@@ -33,7 +33,7 @@ item:
     url: ''
   - certificate_url: "uploads/quera_beginner_python.jpg"
     date_end: ''
-    date_start: '2020-03'
+    date_start: '2020-03-01'
     description: ''
     organization: Quera College
     organization_url: https://www.quera.org/
@@ -41,7 +41,7 @@ item:
     url: ''
   - certificate_url: ''
     date_end: ''
-    date_start: '2020-02'
+    date_start: '2020-02-18'
     description: ''
     organization: Iranian Society of Acoustics and Vibration
     organization_url: http://isav.ir/
