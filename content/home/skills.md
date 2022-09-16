@@ -16,39 +16,39 @@ subtitle:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-  - description: 
+  - description: "Fluent" 
     icon: matlab_icon
     icon_pack: custom
     name: Matlab
-  - description: 
+  - description: "Fluent"
     icon: python_icon
     icon_pack: custom
     name: Python
-  - description: 
+  - description: "Fluent"
     icon: cpp_icon
     icon_pack: custom
     name: C++
-  - description: 
+  - description: "Familiar" 
     icon: git_icon
     icon_pack: custom
     name: Git
-  - description: 
+  - description: "Moderately Fluent"
     icon: ros_icon
     icon_pack: custom
     name: ROS
-  - description: 
+  - description: "Fluent"
     icon: arduino_icon
     icon_pack: custom
     name: Arduino
-  - description: 
+  - description: "Moderately Fluent"
     icon: solidworks_icon
     icon_pack: custom
     name: Solidworks
-  - description: 
+  - description: "Familiar"
     icon: abaqus_icon
     icon_pack: custom
     name: Abaqus
-  - description: 
+  - description: "Familiar"
     icon: latex_icon
     icon_pack: custom
     name: LaTeX
