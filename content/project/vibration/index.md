@@ -9,7 +9,7 @@ date: '2019-03-01'
 external_link: ''
 
 image:
-  caption: ''
+  caption: 'Sixth mode shape of the beam, visualized in ABAQUS'
 
 # links:
 #  - icon: ''
@@ -30,7 +30,7 @@ slides: ""
 ---
 
 # Objective
-A cantilever beam must be analyzed to extract natural frequencies of it and determine how it behaves if a mass was added to it. The analyze can be done in 2D and 3D definition of beam model, or with any element type available in abaqus suitable for modeling beams.
+A cantilever beam must be analyzed to extract natural frequencies of it and determine how it behaves if a mass was added to it. The analyze can be done in 2D and 3D definition of beam model, or with any element type available in ABAQUS suitable for modeling beams.
 
 # Problem Definition
 There is a cantilever beam with rectangular profile of 3m width, 5cm height and 10m length (a very odd beam indeed!) This beam is made from stainless steel (ST37) with below properties:
@@ -42,9 +42,9 @@ There is a cantilever beam with rectangular profile of 3m width, 5cm height and 
 Since the beam is cantilevered, all degrees of freedoms (DOFs) of one end of this beam must be bounded.
 
 # Modeling
-In this section a quick review of abaqus modeling of the mentioned beam will be presented. Since this report is being written many years later than the actual project, there may be some inaccuracies in it.
+In this section a quick review of ABAQUS modeling of the mentioned beam will be presented. Since this report is being written many years later than the actual project, there may be some inaccuracies in it.
 
-The steps to model in abaqus are as mentioned below:
+The steps to model in ABAQUS are as mentioned below:
 
 * **Part** (Defining geometry)
 * **Property** (Defining mechanical properties, section and element type)
