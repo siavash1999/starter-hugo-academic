@@ -23,68 +23,59 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
-  - certificate_url: "uploads/quera_advanced_python.jpg"
+  - title: 'Supervised Machine Learning: Regression and Classification'
+    date_start: '2022-08-05'
     date_end: ''
-    date_start: '2020-04-01'
+    organization: Coursera
+    organization_url: https://coursera.org
+    certificate_url: "https://coursera.org/verify/M5L237ZXTCJ9"
     description: ''
+    
+    
+    url: ''
+
+  - title: Advanced Python Programming and Object-Oriented Thinking Course
+    date_start: '2020-04-01'
     organization: Quera College
     organization_url: https://www.quera.org
-    title: Advanced Python Programming and Object-Oriented Thinking Course
-    url: ''
+    certificate_url: "uploads/quera_advanced_python.jpg"
 
-  - certificate_url: "uploads/quera_beginner_python.jpg"
-    date_end: ''
+  - title: Task-Oriented Course in Fundamentals of Python Programming and Algorithmic Thinking
     date_start: '2020-03-01'
-    description: ''
     organization: Quera College
     organization_url: https://www.quera.org/
-    title: Task-Oriented Course in Fundamentals of Python Programming and Algorithmic Thinking
-    url: ''
+    certificate_url: "uploads/quera_beginner_python.jpg"
+    
 
-  - certificate_url: ''
-    date_end: ''
+  - title: 'Bayesian Signal and Image Processing with Application on Vibration and Acoustics'
     date_start: '2020-02-18'
-    description: ''
     organization: Iranian Society of Acoustics and Vibration
     organization_url: http://isav.ir/
-    title: 'Bayesian Signal and Image Processing with Application on Vibration and Acoustics'
-    url: ''
+    certificate_url: ''
 
-  - certificate_url: ''
-    date_end: ''
+  - title: 'Abaqus Course'
     date_start: '2019-05-29'
-    description: ''
     organization: Student Scientific Society of Mechanical Engineering
     organization_url: http://mech.iust.ac.ir/student-affairs/#student-scientific-affairs-office
-    title: 'Abaqus Course'
-    url: ''
+    certificate_url: ''
 
-  - certificate_url: ''
-    date_end: ''
+  - title: 'Beginner Solidworks Course'
     date_start: '2018-08-26'
-    description: ''
     organization: Student Scientific Society of Mechanical Engineering
     organization_url: http://mech.iust.ac.ir/student-affairs/#student-scientific-affairs-office
-    title: 'Beginner Solidworks Course'
-    url: ''
+    certificate_url: ''
 
-  - certificate_url: ''
-    date_end: ''
+  - title: 'Beginner Matlab Course'
     date_start: '2018-08-26'
-    description: ''
     organization: Student Scientific Society of Mechanical Engineering
     organization_url: http://mech.iust.ac.ir/student-affairs/#student-scientific-affairs-office
-    title: 'Beginner Matlab Course'
-    url: ''
+    certificate_url: ''
 
-  - certificate_url: ''
-    date_end: ''
+  - title: 'Electrotechnic Course and workshop'
     date_start: '2018-03-08'
-    description: ''
     organization: Tehran Institute of Technology
     organization_url: https://mftplus.com/
-    title: 'Electrotechnic Course and workshop'
-    url: ''
+    certificate_url: ''
 
 design:
   columns: '2'
