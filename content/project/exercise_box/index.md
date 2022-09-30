@@ -9,7 +9,7 @@ date: '2022-03-01'
 external_link: ''
 
 image:
-  caption: ''
+  caption: 'A render image of the exercise box'
 
 # links:
 #  - icon: ''
