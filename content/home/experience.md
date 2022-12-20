@@ -8,7 +8,7 @@ date_format: Jan 2006
 experience:
   - title: Mechanical Designer
     company: ISENSE Co.
-    company_url: 'http://isneseco.com'
+    company_url: 'http://isenseco.com'
     company_logo: isense_logo
     location: Tehran, Iran
     date_start: '2022-07-23'
