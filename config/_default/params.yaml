@@ -1,6 +1,6 @@
 # SITE SETUP
-# Guide: https://wowchemy.com/docs/getting-started/
-# Documentation: https://wowchemy.com/docs/
+# Guide: https://docs.hugoblox.com/tutorial/
+# Documentation: https://docs.hugoblox.com/
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 # Appearance
@@ -18,12 +18,13 @@ marketing:
     site_type: Person
     local_business_type: ''
     org_name: ''
-    description: 'A highly-customizable Hugo academic resume theme powered by Wowchemy website builder.'
-    twitter: 'wowchemy'
+    description: 'A highly-customizable Hugo academic resume theme powered by Hugo Blox Builder.'
+    twitter: 'GetResearchDev'
   analytics:
     google_analytics: 'G-N59PJ86RZW'
-    google_tag_manager: 'G-N59PJ86RZW'
     baidu_tongji: ''
+    google_tag_manager: 'G-N59PJ86RZW'
+    microsoft_clarity: ''
   verification:
     google: ''
     baidu: ''
@@ -62,19 +63,16 @@ locale:
 
 features:
   syntax_highlighter:
-    enable: true
-    extra_languages:
-      - r
-      - latex
-      - matlab
+    theme_light: github-light
+    theme_dark: dracula
   math:
-    enable: true
+    enable: false
   privacy_pack:
-    enable: true
+    enable: false
   repository:
     url: 'https://github.com/<username>/<repository>'
     content_dir: content
-    branch: master
+    branch: main
   avatar:
     gravatar: false
     shape: circle
@@ -85,6 +83,11 @@ features:
       show_count: true
     commento:
       url: ''
+    giscus:
+      repo: ''
+      repo_id: ''
+      category: ''
+      category_id: ''
   search:
     provider: wowchemy
     algolia:
@@ -93,7 +96,7 @@ features:
       index_name: ''
       show_logo: false
   map:
-    provider: ''
+    provider: 'mapnik'
     api_key: ''
     zoom: 15
 
